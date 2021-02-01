@@ -1,2 +1,2 @@
 # Unix_shell
-pretty cool features like googler in the shell
+Added extra features such as googler in the shell and made it easy to use.
